@@ -1,0 +1,9 @@
+{
+  "name": "chat-app-frontend",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "@rematch/core": "^2.0.0-next.10",
+    "react-router": "^5.2.0"
+  }
+}
